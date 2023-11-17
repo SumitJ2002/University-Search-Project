@@ -29,7 +29,7 @@ This web application allows users to search for universities based on the countr
 
 ## Screenshots
 
-![Screenshot 1](Demo_University_Search.png)
+![Screenshot 1](/Demo_University_Search.png)
 
 ## License
 
